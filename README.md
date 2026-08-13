@@ -155,15 +155,6 @@ Final Year Project: *Sentiment Search Engine* — a web application for Twitter 
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas-Awan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Awan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
----
-
 <p align="center">
   Open to senior React Native and front-end roles — feel free to reach out.
 </p>
